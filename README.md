@@ -13,19 +13,19 @@
 - Python 3.8 [ pkg install python3 ]
 - git [ pkg install git ]
 ### Termux
-> git clone https://github.com/CyberUSA/Phone_Parser
-> cd Phone_Parser
-> python3 phone_parser.py
+-> git clone https://github.com/CyberUSA/Phone_Parser
+-> cd Phone_Parser
+-> python3 phone_parser.py
 
 
 # Установка в Linux
 ## Основные пакеты 
-> Python 3.8 [ apt-get install python3 ]
-> git [ apt-get install git ]
+- Python 3.8 [ apt-get install python3 ]
+- git [ apt-get install git ]
 ### Linux
 
-> git clone https://github.com/CyberUSA/Phone_Parser
-> cd Phone_Parser
+-> git clone https://github.com/CyberUSA/Phone_Parser
+-> cd Phone_Parser
 > python3 phone_parser.py
 
 
