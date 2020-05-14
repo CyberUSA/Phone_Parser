@@ -16,6 +16,7 @@ from Crypto import Random
 from Crypto.Cipher import AES
 
 def main_menu():
+	os.system("clear")
 	print(colored("Добро пожаловать в PHONE PARSER v1.1", 'green'))
 	print(colored("Разработчик - CyberUSA", "red"))
 	print("\n")
