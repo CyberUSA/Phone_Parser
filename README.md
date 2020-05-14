@@ -9,6 +9,7 @@
 
 # Android PyDroid3
 - Установка Phone Parser на Android
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_jW7qqoNoi8" target="_blank"><img src="http://img.youtube.com/vi/_jW7qqoNoi8/0.jpg" 
 alt="Установка Phone Parser на Android" width="240" height="180" border="10" /></a>
 
