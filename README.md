@@ -7,17 +7,10 @@
 - Заказать у разработчика поиск VK, INSTA, TG, аккаунта по номеру
 - Связь с разработчиком
 
+# Android PyDroid3
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=_jW7qqoNoi8" target="_blank"><img src="http://img.youtube.com/vi/_jW7qqoNoi8/0.jpg" 
+alt="Установка Phone Parser на Android" width="240" height="180" border="10" /></a>
 
-# Установка в Termux
-## Основные пакеты 
-- Python 3.8 [ pkg install python3 ]
-- git [ pkg install git ]
-### Termux
-> git clone https://github.com/CyberUSA/Phone_Parser
-
-> cd Phone_Parser
-
-> python3 phone_parser.py
 
 
 # Установка в Linux
@@ -29,6 +22,8 @@
 > git clone https://github.com/CyberUSA/Phone_Parser
 
 > cd Phone_Parser
+
+> pip install -r requirements.txt
 
 > python3 phone_parser.py
 
