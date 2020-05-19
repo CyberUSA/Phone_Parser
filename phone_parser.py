@@ -29,14 +29,12 @@ def main_menu():
 	print(colored("3 - Поиск STANDART", 'yellow'))
 	print(colored("Поиск стандартных данных", "yellow"))
 	print("")
-	print(colored("4 - Инструкция", 'yellow'))
-	print(colored("Полная инструкция по использованию", "yellow"))
+	print(colored("4 - Поиск TELEGRAM", 'yellow'))
+	print(colored("Поиск аккаунта TELEGRAM", "yellow"))
 	print("")
-	print(colored("5 - Заказать поиск по VK, INSTAGRAM, TELEGRAM", 'yellow'))
-	print(colored("Поиск номера в других соц.сетях", "yellow"))
 	print('\n')
 	
-	action = input(colored("Выберите режим: ", 'green'))
+	action = input(colored("Выберите пункт поиска: ", 'green'))
 	if action == "1":
 		os.system("clear")
 		pars_avito()
